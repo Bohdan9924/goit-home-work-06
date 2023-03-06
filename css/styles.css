@@ -910,9 +910,9 @@ button {
 
 .form-button {
    display: flex;
-   align-content: center;
+   align-items: center;
    justify-content: center;
-   margin: 24px auto 24px auto;
+   margin: 24px auto 0 auto;
    padding: 16px 32px;
    width: 170px;
    font-weight: 500;
